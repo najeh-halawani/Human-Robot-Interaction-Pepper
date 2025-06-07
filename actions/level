@@ -1,0 +1,15 @@
+IMAGE
+<*, *, *, *>:  img/question.jpg
+----
+TEXT
+<*,*,*,*>: Would you prefer basic info, fun facts, or deeper technical details?
+----
+TTS
+<*,*,*,*>: Would you prefer basic info, fun facts, or deeper technical details?
+----
+BUTTONS
+fun_facts
+<*,*,*,*>:  Fun Facts
+deep_details
+<*,*,*,*>:  Deeper Details
+----

@@ -1,0 +1,12 @@
+IMAGE
+<*, *, *, *>:  img/goodbye.jpg
+----
+TEXT
+<*,*,*,*>: Thank you for visiting, I hope you enjoyed the tour! Goodbye!
+----
+GESTURE
+<*,*,*,*>: BodyTalk_10
+----
+TTS
+<*,*,*,*>: Thank you for visiting, I hope you enjoyed the tour! Goodbye!
+----

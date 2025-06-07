@@ -1,0 +1,12 @@
+IMAGE
+<*, *, *, *>:  img/leo.jpg
+----
+TEXT
+<*,*,*,*>: Here’s a fun fact: Did you know Leonardo da Vinci used to write backwards? Some say it was to keep his ideas secret!
+----
+TTS
+<*,*,*,*>: Here’s a fun fact: Did you know Leonardo da Vinci used to write backwards? Some say it was to keep his ideas secret!
+----
+GESTURE
+<*,*,*,*>: BodyTalk_10
+----

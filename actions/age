@@ -1,0 +1,20 @@
+IMAGE
+<*, *, *, *>:  img/question.jpg
+----
+TEXT
+<*,*,*,*>: Can I ask your age group? It'll help me choose the best tour style for you
+----
+GESTURE
+<*,*,*,*>: BodyTalk_10
+----
+TTS
+<*,*,*,*>: Can I ask your age group? It'll help me choose the best tour style for you
+----
+BUTTONS
+child
+<*,*,*,*>:  < 12
+teen
+<*,*,*,*>:   12-18
+adult
+<*,*,*,*>:   > 18
+----

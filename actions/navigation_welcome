@@ -1,0 +1,28 @@
+IMAGE
+<*, *, *, *>:  img/welcome.png
+----
+TEXT
+<*,*,*,*>: Welcome to the museum! I’m your robot guide. Are you Lost?
+----
+GESTURE
+<*,*,*,*>: BodyTalk_10
+----
+TTS
+<*,*,*,*>: Welcome to the museum! I’m your robot guide. Are you Lost?
+----
+ASR
+<*,*,*,*>: {'restroom': ['restroom','toilet','changing room', 'bathroom'], 'din_ex': ['dinosaur','exhibit'], 'imp_paint': ['painting', 'impressionist'] }
+----
+BUTTONS
+restroom
+<*,*,*,*>:  Where is the Restroom?
+din_ex
+<*,*,*,*>:  Where is the Dinosaur Exhibit?
+imp_paint
+<*,*,*,*>:  Where is the Impressionist Paintings?
+crying_baby
+<*,*,*,*>:  Simulate Crying Baby
+----
+GESTURE
+<*,*,*,*>: BodyTalk_10
+----

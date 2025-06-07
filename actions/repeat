@@ -1,0 +1,9 @@
+IMAGE
+<*, *, *, *>:  img/question.jpg
+----
+TEXT
+<*,*,*,*>: I’m sorry, I didn’t catch that. Could you please repeat?
+----
+TTS
+<*,*,*,*>: I’m sorry, I didn’t catch that. Could you please repeat?
+----

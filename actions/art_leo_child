@@ -1,0 +1,12 @@
+IMAGE
+<*, *, *, *>:  img/leo.jpg
+----
+TEXT
+<*,*,*,*>: This is a flying machine! Can you believe Leonardo da Vinci dreamed it up 500 years ago? It flaps like a bird’s wings! Pretty cool, right?
+----
+TTS
+<*,*,*,*>: This is a flying machine! Can you believe Leonardo da Vinci dreamed it up 500 years ago? It flaps like a bird’s wings! Pretty cool, right?
+----
+GESTURE
+<*,*,*,*>: BodyTalk_10
+----

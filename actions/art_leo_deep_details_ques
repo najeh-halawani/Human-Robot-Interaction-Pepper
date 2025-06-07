@@ -1,0 +1,23 @@
+IMAGE
+<*, *, *, *>:  img/leo.jpg
+----
+TEXT
+<*,*,*,*>: Time for a quick quiz! What do you think Leonardo used to design his flying machine?
+----
+GESTURE
+<*,*,*,*>: BodyTalk_10
+----
+TTS
+<*,*,*,*>: Time for a quick quiz! What do you think Leonardo used to design his flying machine?
+----
+ASR
+<*,*,*,*>: {'rocket_fuel': ['rocket','fuel','rocket fuel', 'a', '1', 'first', 'first one'], 'bird_wings': ['bird','wings','bird wings', '2', 'b', 'second', 'second one'], 'magic': ['magic', '3', 'c', 'third', 'third one'] }
+----
+BUTTONS
+rocket_fuel
+<*,*,*,*>:  Rocket fuel
+bird_wings
+<*,*,*,*>:  Bird Wings
+magic
+<*,*,*,*>:  Magic
+----

@@ -1,0 +1,18 @@
+IMAGE
+<*, *, *, *>:  img/question.jpg
+----
+TEXT
+<*,*,*,*>: Would you like to return to the main menu or exit the tour?
+----
+TTS
+<*,*,*,*>: Would you like to return to the main menu or exit the tour?
+----
+ASR
+<*,*,*,*>: {'main_menu': ['menu','main','main menu'], 'exit': ['stop','finish','exit']}
+----
+BUTTONS
+main_menu
+<*,*,*,*>:  Main Menu
+exit
+<*,*,*,*>:  Exit
+----

@@ -1,0 +1,12 @@
+IMAGE
+<*, *, *, *>:  img/leo.jpg
+----
+TEXT
+<*,*,*,*>: The ornithopter design reflects Leonardo’s study of avian anatomy and biomechanics. The mechanism involves manual wing articulation, likely via a pulley system. While impractical for sustained flight, the design represents an early instance of biomimicry and engineering foresight.
+----
+TTS
+<*,*,*,*>: The ornithopter design reflects Leonardo’s study of avian anatomy and biomechanics. The mechanism involves manual wing articulation, likely via a pulley system. While impractical for sustained flight, the design represents an early instance of biomimicry and engineering foresight.
+----
+GESTURE
+<*,*,*,*>: BodyTalk_10
+----

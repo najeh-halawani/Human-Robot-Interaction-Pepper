@@ -1,0 +1,24 @@
+IMAGE
+<*, *, *, *>:  img/leo.jpg
+----
+TEXT
+<*,*,*,*>: Do you think it could actually fly?
+----
+TTS
+<*,*,*,*>: Do you think it could actually fly?
+----
+ASR
+<*,*,*,*>: {'yes': ['yes','sure','okay'], 'no': ['no','nope','sorry','I don\'t'],'maybe': ['maybe','not sure']}
+----
+BUTTONS
+yes
+<*,*,*,*>:  Yes
+no
+<*,*,*,*>:   No
+maybe
+<*,*,*,*>:   Maybe
+----
+GESTURE
+<*,*,*,*>: BodyTalk_10
+----
+

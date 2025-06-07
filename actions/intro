@@ -1,0 +1,21 @@
+IMAGE
+<*, *, *, *>:  img/welcome.png
+----
+TEXT
+<*,*,*,*>: To make your visit extra special, can I ask you a few quick questions?
+----
+GESTURE
+<*,*,*,*>: BodyTalk_10
+----
+TTS
+<*,*,*,*>: To make your visit extra special, can I ask you a few quick questions?
+----
+ASR
+<*,*,*,*>: {'yes': ['yes','sure','okay'], 'no': ['no','nope','sorry','I don\'t']}
+----
+BUTTONS
+yes
+<*,*,*,*>:  Yes
+no
+<*,*,*,*>:   No
+----

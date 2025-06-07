@@ -1,0 +1,21 @@
+IMAGE
+<*, *, *, *>:  img/welcome.png
+----
+TEXT
+<*,*,*,*>: Great to see you again! Should we continue from where we left off, or start a new adventure?
+----
+GESTURE
+<*,*,*,*>: BodyTalk_10
+----
+TTS
+<*,*,*,*>: Great to see you again! Should we continue from where we left off, or start a new adventure?
+----
+ASR
+<*,*,*,*>: {'continue': ['continue','proceed','from last time', 'yes'], 'new': ['new','adventure','something new']}
+----
+BUTTONS
+continue
+<*,*,*,*>:  Continue From Last Time
+new
+<*,*,*,*>:   Something New
+----

@@ -1,0 +1,12 @@
+IMAGE
+<*, *, *, *>:  img/welcome.png
+----
+TEXT
+<*,*,*,*>: You seemed really interested in inventions last time. I’ve saved a few cool facts just for you!
+----
+GESTURE
+<*,*,*,*>: BodyTalk_10
+----
+TTS
+<*,*,*,*>: You seemed really interested in inventions last time. I’ve saved a few cool facts just for you!
+----

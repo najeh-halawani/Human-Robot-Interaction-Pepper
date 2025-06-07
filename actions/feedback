@@ -1,0 +1,27 @@
+IMAGE  
+<*,*,*,*>: img/question.jpg  
+----
+TEXT  
+<*,*,*,*>: How was the interaction? Your feedback helps me improve!  
+----
+TTS  
+<*,*,*,*>: How was the interaction? Your feedback helps me improve!  
+----
+ASR  
+<*,*,*,*>: { 'excellent': ['excellent', 'amazing', 'perfect', 'great'],  'good': ['good', 'nice', 'fine'], 'average': ['okay', 'average', 'decent'],  'poor': ['poor', 'bad', 'not good'], 'terrible': ['terrible', 'horrible', 'awful'] }  
+----
+BUTTONS  
+terrible  
+<*,*,*,*>: Terrible  
+poor  
+<*,*,*,*>: Poor  
+average  
+<*,*,*,*>: Average
+good  
+<*,*,*,*>: Good    
+excellent  
+<*,*,*,*>: Excellent  
+----
+GESTURE  
+<*,*,*,*>: BodyTalk_23  
+----

@@ -1,0 +1,12 @@
+IMAGE
+<*, *, *, *>:  img/welcome.png
+----
+TEXT
+<*,*,*,*>: Welcome to the museum! I’m your robot guide. Let’s have some fun together!
+----
+GESTURE
+<*,*,*,*>: BodyTalk_10
+----
+TTS
+<*,*,*,*>: Welcome to the museum! I’m your robot guide. Let’s have some fun together!
+----

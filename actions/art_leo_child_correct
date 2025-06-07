@@ -1,0 +1,12 @@
+IMAGE
+<*, *, *, *>:  img/leo.jpg
+----
+TEXT
+<*,*,*,*>: That's Correct, Leonardo da Vinci had a dream to fly like a bird. He made drawings of a flying machine with big wings that flap, just like a bird's. But back then, they didn't have engines, so it didn't really fly. Still, pretty amazing, right?
+----
+TTS
+<*,*,*,*>: That's Correct, Leonardo da Vinci had a dream to fly like a bird. He made drawings of a flying machine with big wings that flap, just like a bird's. But back then, they didn't have engines, so it didn't really fly. Still, pretty amazing, right?
+----
+GESTURE
+<*,*,*,*>: BodyTalk_10
+----

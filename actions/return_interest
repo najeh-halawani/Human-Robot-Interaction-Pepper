@@ -1,0 +1,23 @@
+IMAGE
+<*, *, *, *>:  img/question.jpg
+----
+TEXT
+<*,*,*,*>: Last time we saw the robot dogs, do you want to see something new today?
+----
+TTS
+<*,*,*,*>: Last time we saw the robot dogs, do you want to see something new today?
+----
+ASR
+<*,*,*,*>: {'robots': ['robot','robots','robotics'], 'history': ['hist','history'], 'art': ['art', 'arts', 'paintings']}
+----
+BUTTONS
+robots
+<*,*,*,*>:  Robots (You saw it last time)
+history
+<*,*,*,*>:  History
+art
+<*,*,*,*>:  Art
+----
+GESTURE
+<*,*,*,*>: BodyTalk_10
+----

@@ -1,0 +1,12 @@
+IMAGE
+<*, *, *, *>:  img/leo.jpg
+----
+TEXT
+<*,*,*,*>: Good Try! He studied birds and tried to copy their wings. Great job!
+----
+GESTURE
+<*,*,*,*>: BodyTalk_10
+----
+TTS
+<*,*,*,*>: Good Try! He studied birds and tried to copy their wings. Great job!
+----

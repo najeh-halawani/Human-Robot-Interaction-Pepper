@@ -1,0 +1,24 @@
+IMAGE
+<*, *, *, *>:  img/welcome.png
+----
+TEXT
+<child,new,*,*>: Welcome to the museum! I’m your robot guide. Let’s have some fun together!
+<adult,new,*,*>: Good day! I’m Pepper, your museum guide. Wishing you an amazing first experience here!
+<*,return,*,*>: Hey! I remember you! Last time we saw the robot dogs—do you want to see something new today?
+<*,return,*,*>:Welcome back! I recall you were interested in AI. There’s a new exhibit you might love!
+<*,return,*,*>: Great to see you again! Should we continue from where we left off, or start a new adventure?
+----
+GESTURE
+<*,*,*,*>: BodyTalk_10
+----
+TTS
+<child,new,*,*>: Welcome to the museum! I’m your robot guide. Let’s have some fun together!
+<adult,new,*,*>: Good day! I’m Pepper, your museum guide. Wishing you an amazing first experience here!
+<*,return,*,*>: Hey! I remember you! Last time we saw the robot dogs—do you want to see something new today?
+<*,return,*,*>:Welcome back! I recall you were interested in AI. There’s a new exhibit you might love!
+<*,return,*,*>: Great to see you again! Should we continue from where we left off, or start a new adventure?
+----
+BUTTONS
+start
+<*,*,*,*>:  Let's Get Started
+----

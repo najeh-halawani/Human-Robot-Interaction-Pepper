@@ -1,0 +1,23 @@
+IMAGE
+<*, *, *, *>:  img/question.jpg
+----
+TEXT
+<*,*,*,*>: What are you most interested in? Robots? History? Art? I can adapt the tour just for you
+----
+TTS
+<*,*,*,*>: What are you most interested in? Robots? History? Art? I can adapt the tour just for you
+----
+ASR
+<*,*,*,*>: {'robots': ['robot','robots','robotics'], 'history': ['hist','history'], 'art': ['art', 'arts', 'paintings']}
+----
+BUTTONS
+robots
+<*,*,*,*>:  Robots
+history
+<*,*,*,*>:  History
+art
+<*,*,*,*>:  Art
+----
+GESTURE
+<*,*,*,*>: BodyTalk_10
+----

@@ -1,0 +1,12 @@
+IMAGE
+<*, *, *, *>:  img/leo.jpg
+----
+TEXT
+<*,*,*,*>: Leonardo’s flying machine is called an ‘ornithopter.’ He studied how birds fly and drew this around the year 1485. It had large wings powered by a human. Even though it never flew, it helped scientists think about flight in new ways.
+----
+TTS
+<*,*,*,*>: Leonardo’s flying machine is called an ‘ornithopter.’ He studied how birds fly and drew this around the year 1485. It had large wings powered by a human. Even though it never flew, it helped scientists think about flight in new ways.
+----
+GESTURE
+<*,*,*,*>: BodyTalk_10
+----
