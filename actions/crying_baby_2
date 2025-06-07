@@ -1,0 +1,18 @@
+IMAGE
+<*, *, *, *>:  img/question.jpg
+----
+TEXT
+<*,*,*,*>: how about we go eat some ice cream? Do you like ice cream?
+----
+TTS
+<*,*,*,*>: how about we go eat some ice cream? Do you like ice cream?
+----
+ASR
+<*,*,*,*>: {'yes': ['okay','sure','yes'], 'no': ['no','nope','don\'t']}
+----
+BUTTONS
+yes
+<*,*,*,*>:  Yes
+no
+<*,*,*,*>:  No
+----

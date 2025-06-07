@@ -1,0 +1,9 @@
+IMAGE
+<*, *, *, *>:  img/question.jpg
+----
+TEXT
+<*,*,*,*>: Oh no, it sounds like the baby is crying!
+----
+TTS
+<*,*,*,*>: Oh no, it sounds like the baby is crying!
+----
